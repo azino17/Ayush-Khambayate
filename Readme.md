@@ -1,7 +1,28 @@
 Planet Hunt- Yuri's Night
 Dive into the depths of the cosmos with Planet Hunt, where data analysis meets
 astronomical discovery! 🌌
+PROBLEM STATEMENT
+Overview
+Objective:
+1. Inspect the data type and Extract basic statistics: [15]
+1.1 Print Range, Mean, Median, and Standard Deviation
+of any 3 features of the dataset. [5]
+1.2 Does the Dataset require Normalisation? [5]
+1.3 What are your inferences based on the above results? [5]
 
+2. Using the Seaborn module, plot a heatmap to explore the various planetary detection methods used over the years, What do you infer from the above heatmap? [10]
+3. Identify the planetary detection methods that have identified the most: [15]
+i) Uninhabitable planets (0)
+ii) Conservatively habitable planets (1)
+iii) Optimistically habitable planets (2)
+4. Determine the Interquartile Range and the Skewness of the Dataset. [20]
+5. How would you tackle the classification bias (class imbalance) of the Dataset? [20]
+6. Calculate the escape velocities of exoplanets and compare them to their estimated temperatures. Present a plot of estimated temperature with escape velocity. Explain the nature of the plot obtained. [20]
+7. Build a robust and efficient classifier for classifying a new exoplanet into the three classes of habitability: [20]
+i) Uninhabitable planets (0)
+ii) Conservatively habitable planets (1)
+iii) Optimistically habitable planets (2)
+by utilizing the target features.
 
 1.1 Print Range, Mean, Median, and Standard Deviation
 of any 3 features of the dataset.
